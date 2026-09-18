@@ -1,6 +1,6 @@
 # A Multi-Agent System for Programming Assistance
 
-A research and implementation project exploring a multi-agent system for programming assistance through **code review, debugging, testing, and error correction**.
+A research and implementation project exploring a multi-agent system for programming assistance through **code review, debugging, testing, and error correction**. Done for my Advanced AI course, which I’m currently taking as part of my Master’s degree.
 
 ## Overview
 
