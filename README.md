@@ -32,7 +32,7 @@ The main goal is to investigate the effectiveness of a multi-agent approach to p
 
 ## Status
 
-🚧 **In Progress**
+**In Progress...**
 
 The research and implementation are currently under development.
 
