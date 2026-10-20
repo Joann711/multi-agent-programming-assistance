@@ -30,6 +30,16 @@ The main goal is to investigate the effectiveness of a multi-agent approach to p
 * Error correction
 * Software engineering
 
+* Baseline
+
+The project includes a single-agent baseline for Python code review, error detection, and correction. It uses a local language model to analyze code and generate a corrected solution.
+
+Implementation: View baseline code
+
+Documentation: Baseline README
+
+The baseline will serve as the reference for evaluating the proposed multi-agent system.
+
 ## Status
 
 **In Progress...**
