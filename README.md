@@ -37,20 +37,6 @@ The project includes a single-agent baseline for Python code review, error detec
 - **Implementation:** [View baseline code](baseline/Baseline.ipynb)
 - **Documentation:** [Baseline README](baseline/README.md)
 
-The baseline will serve as the reference for evaluating the proposed multi-agent system.
-
 ## Status
 
 **In Progress...**
-
-The research and implementation are currently under development.
-
-## Future Work
-
-* Review related research
-* Define the system architecture
-* Implement the individual agents
-* Integrate the agents into a multi-agent system
-* Define and implement the baseline
-* Run experiments on programming problems
-* Evaluate and analyze the results
