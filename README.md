@@ -37,6 +37,13 @@ The project includes a single-agent baseline for Python code review, error detec
 - **Implementation:** [View baseline code](baseline/Baseline.ipynb)
 - **Documentation:** [Baseline README](baseline/README.md)
 
+## Multi Agent System
+
+Multi-agent system for Python code review, error detection, debugging, and correction. It uses four specialized agents that collaborate to analyze code, investigate errors, generate corrections, and review the final solution to ensure the code correctness or generate more fixes depending on feedbacks.
+
+- **Implementation:** [View multi-agent code](multi-agent-system/multi-agent-system.ipynb)
+- **Documentation:** [Multi-agent README](multi-agent-system/README.md)
+
 ## Status
 
 **In Progress...**
